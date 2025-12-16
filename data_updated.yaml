@@ -1,0 +1,48 @@
+flip_idx:
+- 24
+- 25
+- 26
+- 27
+- 28
+- 29
+- 22
+- 23
+- 21
+- 17
+- 18
+- 19
+- 20
+- 13
+- 14
+- 15
+- 16
+- 9
+- 10
+- 11
+- 12
+- 8
+- 6
+- 7
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 31
+- 30
+kpt_shape:
+- 32
+- 3
+names:
+- pitch
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: football-field-detection-f07vi-apxzb
+  url: https://universe.roboflow.com/mihailo/football-field-detection-f07vi-apxzb/dataset/1
+  version: 1
+  workspace: mihailo
+test: D:/desktop/xy/xy_football/football_analysis/models/train/keypoints_detection/football-field-detection-1/test/images
+train: D:/desktop/xy/xy_football/football_analysis/models/train/keypoints_detection/football-field-detection-1/train/images
+val: D:/desktop/xy/xy_football/football_analysis/models/train/keypoints_detection/football-field-detection-1/valid/images
